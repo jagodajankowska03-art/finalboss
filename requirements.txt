@@ -1,3 +1,5 @@
-Flask
-googlemaps
+flask
 gunicorn
+geopy
+folium
+requests
